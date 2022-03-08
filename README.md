@@ -3,6 +3,7 @@
 # Coin Betting Dapp
 
 ## Features
+
 1. Only the initiator can flip the coin, end the game, etc.
 2. The game cannot end without coin being tossed.
 3. Player cannot bet without joining the game.
@@ -42,5 +43,5 @@ Each player is given 100 Ether for better visiual response while testing. The co
 9. Ending the game with endGame function
    <img src="https://github.com/arxxv/dyeus-submission/blob/main/images/9.jpg" alt="Ending the game with endGame function" width="1200"/>
 
-10. The game gets pushed to the staleGames array and gets removed from the liveGames array.
+10. The game is removed from liveGames and is pushed to staleGames array.
     <img src="https://github.com/arxxv/dyeus-submission/blob/main/images/10.jpg" alt="Final balances of every player" width="1200"/>
