@@ -3,43 +3,35 @@
 # Coin Betting Dapp
 
 # Screenshots
-1. Deployed GameFactory
-[Deployed GameFactory]!(https://github.com/arxxv/dyeus-submission/blob/main/images/1.jpg)
 
-
-1. Deployed GameFactory
-[Deployed GameFactory]!(https://github.com/arxxv/dyeus-submission/blob/main/images/1.jpg)
-
+Each player is given 100 Ether for better visiual response while testing. The code has the limit of 100 wei.
 
 1. Deployed GameFactory
-[Deployed GameFactory]!(https://github.com/arxxv/dyeus-submission/blob/main/images/1.jpg)
+   <img src="https://github.com/arxxv/dyeus-submission/blob/main/images/1.jpg" alt="Deployed GameFactory" width="1200"/>
 
+2. Created a game. The new game gets push to the liveGames array
+   <img src="https://github.com/arxxv/dyeus-submission/blob/main/images/2.jpg" alt="Created a game. The new game gets push to the liveGames array" width="1200"/>
 
-1. Deployed GameFactory
-[Deployed GameFactory]!(https://github.com/arxxv/dyeus-submission/blob/main/images/1.jpg)
+3. Changed the account and joined the game
+   <img src="https://github.com/arxxv/dyeus-submission/blob/main/images/3.jpg" alt="Changed the account and joined the game" width="1200"/>
 
+4. Going to bet on tail (0) with 10 ether
+   <img src="https://github.com/arxxv/dyeus-submission/blob/main/images/4.jpg" alt="Deployed GameFactory" width="1200"/>
 
-1. Deployed GameFactory
-[Deployed GameFactory]!(https://github.com/arxxv/dyeus-submission/blob/main/images/1.jpg)
+5. Bet successful
+   <img src="https://github.com/arxxv/dyeus-submission/blob/main/images/5.jpg" alt="Bet successful" width="1200"/>
 
+6. Joined and placed a bet on heads (1) of 5 ether with third account
+   <img src="https://github.com/arxxv/dyeus-submission/blob/main/images/6jpg" alt="Joined and placed a bet on heads (1) of 5 ether with third account" width="1200"/>
 
-1. Deployed GameFactory
-[Deployed GameFactory]!(https://github.com/arxxv/dyeus-submission/blob/main/images/1.jpg)
+7. Trying to run flipCoin with the same account (Not the initiator of the game). Fails
+   <img src="https://github.com/arxxv/dyeus-submission/blob/main/images/7.jpg" alt="Deployed GameFactory" width="1200"/>
 
-1. Deployed GameFactory
-[Deployed GameFactory]!(https://github.com/arxxv/dyeus-submission/blob/main/images/1.jpg)
+8. Flipped the coin with the initiator account. tossValue shows that the toss resulted in head
+   <img src="https://github.com/arxxv/dyeus-submission/blob/main/images/8.jpg" alt="Flipped the coin with the initiator account. tossValue shows that the toss resulted in head" width="1200"/>
 
+9. Ending the game with endGame function
+   <img src="https://github.com/arxxv/dyeus-submission/blob/main/images/9.jpg" alt="Ending the game with endGame function" width="1200"/>
 
-1. Deployed GameFactory
-[Deployed GameFactory]!(https://github.com/arxxv/dyeus-submission/blob/main/images/1.jpg)
-
-
-1. Deployed GameFactory
-[Deployed GameFactory]!(https://github.com/arxxv/dyeus-submission/blob/main/images/1.jpg)
-
-
-1. Deployed GameFactory
-[Deployed GameFactory]!(https://github.com/arxxv/dyeus-submission/blob/main/images/1.jpg)
-
-
-  
+10. The game gets pushed to the staleGames array and gets removed from the liveGames array.
+    <img src="https://github.com/arxxv/dyeus-submission/blob/main/images/10.jpg" alt="Final balances of every player" width="1200"/>
