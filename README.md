@@ -1,4 +1,4 @@
-# dyeus-submission
+# dyeus-web3-submission
 
 # Coin Betting Dapp
 
