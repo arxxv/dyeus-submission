@@ -49,7 +49,7 @@ contract Game {
 
     function join() public gameNotOver {
         if(!players[msg.sender].created){
-            players[msg.sender] = Player(100000000000000000000, 0, -1, true);
+            players[msg.sender] = Player(100, 0, -1, true);
         }
     }
 
