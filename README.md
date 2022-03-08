@@ -2,6 +2,8 @@
 
 # Coin Betting Dapp
 
+The code contains two contracts (Game and GameFactory). While Game handles the main logic of the game, GameFactory handles multiple games.
+
 ## Some of the features
 
 1. Only the initiator can flip the coin, end the game, etc.
@@ -12,7 +14,9 @@
 6. A player can bet only using 0 (tail) and 1 (head)
 7. Players cannot join or bet once the game is over.
 
-# Screenshots
+## Testnet deployment address: 0xfdd74899Eb5a01e9a8dc0eFfE752075838e077fE 
+
+## Screenshots
 
 Each player is given 100 Ether for better visiual response while testing. The code has the limit of 100 wei.
 
