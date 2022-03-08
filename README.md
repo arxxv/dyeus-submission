@@ -2,6 +2,15 @@
 
 # Coin Betting Dapp
 
+## Features
+1. Only the initiator can flip the coin, end the game, etc.
+2. The game cannot end without coin being tossed.
+3. Player cannot bet without joining the game.
+4. A player cannot bet again if they have already place a bet in the same game.
+5. Bet has to be a between 0 and the player's balance.
+6. A player can bet only using 0 (tail) and 1 (head)
+7. Players cannot join or bet once the game is over.
+
 # Screenshots
 
 Each player is given 100 Ether for better visiual response while testing. The code has the limit of 100 wei.
