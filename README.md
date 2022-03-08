@@ -22,7 +22,7 @@ Each player is given 100 Ether for better visiual response while testing. The co
    <img src="https://github.com/arxxv/dyeus-submission/blob/main/images/5.jpg" alt="Bet successful" width="1200"/>
 
 6. Joined and placed a bet on heads (1) of 5 ether with third account
-   <img src="https://github.com/arxxv/dyeus-submission/blob/main/images/6jpg" alt="Joined and placed a bet on heads (1) of 5 ether with third account" width="1200"/>
+   <img src="https://github.com/arxxv/dyeus-submission/blob/main/images/6.jpg" alt="Joined and placed a bet on heads (1) of 5 ether with third account" width="1200"/>
 
 7. Trying to run flipCoin with the same account (Not the initiator of the game). Fails
    <img src="https://github.com/arxxv/dyeus-submission/blob/main/images/7.jpg" alt="Deployed GameFactory" width="1200"/>
