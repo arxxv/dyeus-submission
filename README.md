@@ -2,7 +2,7 @@
 
 # Coin Betting Dapp
 
-## Features
+## Some of the features
 
 1. Only the initiator can flip the coin, end the game, etc.
 2. The game cannot end without coin being tossed.
